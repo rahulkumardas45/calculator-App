@@ -13,9 +13,6 @@ https://calculator-app-liard-six.vercel.app/
 
 ## 📸 Preview
 
-![Calculator App Screenshot](./assets/calculator-preview.png)
-
-> 📌 Replace the link above with your deployed app URL and update the image path with your actual screenshot.
 
 ---
 
