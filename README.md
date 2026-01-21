@@ -6,7 +6,8 @@ A **simple, clean, and responsive Calculator** built using **HTML, CSS, and Java
 
 ## 🌐 Live Demo
 
-🔗 **Live Application:** [demo]([https://your-live-link-here](https://calculator-app-liard-six.vercel.app/))
+https://calculator-app-liard-six.vercel.app/
+
 
 ---
 
