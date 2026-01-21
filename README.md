@@ -11,8 +11,6 @@ https://calculator-app-liard-six.vercel.app/
 
 ---
 
-## 📸 Preview
-
 
 ---
 
