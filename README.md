@@ -8,7 +8,7 @@ A **clean, responsive, and minimal Calculator** built with pure **HTML, CSS, and
 
 ## 📸 Preview
 
-![Calculator Preview](Screenshot 2026-03-26 020034.png)
+![Calculator Preview](./calculator-preview.png)
 
 ---
 
